@@ -18,7 +18,7 @@ Deze pagina bevat een uitgebreide lijst met gebruikershandleidingen en zelfstudi
 
 >[!NOTE]
 >
->Voor een optimale zoekervaring tijdens het migreren van documentinhoud raden we u aan door de onderstaande productsecties te navigeren en een zoekopdracht op hulplijnniveau uit te voeren
+>Voor een optimale zoekervaring tijdens het migreren van documentinhoud raden we u aan door de onderstaande productsecties te navigeren en een zoekopdracht op hulplijnniveau uit te voeren.
 
 <!--
 To see a preview of our documentation staged on Experience League, see [About Moving to Experience League](/help/landing-user-guides/experience-league-preview.md) (in-progress).
