@@ -2,9 +2,9 @@
 title: Documentatie voor Adobe Experience Cloud
 description: Deze pagina bevat een uitgebreide lijst met alle Adobe Experience Cloud-documentatie en handleidingen en zelfstudies voor gebruikers van Adobe Experience Cloud.
 translation-type: tm+mt
-source-git-commit: 5efddee70396ff07b918cfc60914701c89bcae41
+source-git-commit: e7f6af8b2c52fe1154900c58a9b13d972d087e89
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1279'
 ht-degree: 24%
 
 ---
@@ -126,8 +126,8 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/es-ES/campaign-standard/using/campaign-standard-home.html"> Campaign Standard</a></li>
-      <li><a href="https://docs.adobe.com/content/help/es-ES/campaign-classic/using/campaign-classic-home.html"> Campaign Classic</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/campaign-standard/using/campaign-standard-home.html"> Campaign Standard</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/campaign-classic-home.html"> Campaign Classic</a></li>
     </ul>
   </td>
   <td>
@@ -411,6 +411,7 @@ Help voor de advertentiekoloud is beschikbaar in het product door op het Help-pi
 <tr>
   <td>
     <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html"> Softwaredistributie</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/search-promote/using/sp-home.html"> &amp;Zoeken bevorderen</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/livefyre/using/home.html"> Gebruikershandleiding voor Livefyre</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/livefyre/implementation/home.html"> Implementatiehandleiding voor Livefyre</a></li>
