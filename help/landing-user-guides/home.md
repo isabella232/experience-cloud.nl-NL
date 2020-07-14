@@ -2,10 +2,10 @@
 title: Documentatie voor Adobe Experience Cloud
 description: Deze pagina bevat een uitgebreide lijst met alle Adobe Experience Cloud-documentatie en handleidingen en zelfstudies voor gebruikers van Adobe Experience Cloud.
 translation-type: tm+mt
-source-git-commit: c97f610c2ea231b40bfd59e7998557768070a108
+source-git-commit: 1acfc2c352199022f1bd6c9d043ccc6714c6148b
 workflow-type: tm+mt
-source-wordcount: '1280'
-ht-degree: 26%
+source-wordcount: '1291'
+ht-degree: 28%
 
 ---
 
@@ -113,7 +113,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 </tbody>
 </table>
 
-## Campagne
+## Campaign
 
 <table>
 <thead>
@@ -153,12 +153,12 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html"> Gebruikershandleiding voor Audience Manager</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html"> Audience Manager-gebruikershandleiding</a></li>
     </ul>
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/overview.html"> Zelfstudies voor Audience Managers</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/overview.html"> Audience Manager-tutorials</a></li>
     </ul>
   </td>
 </tr>
@@ -177,7 +177,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tbody>
 <tr>
   <td>
-    <p><strong>AEM als Cloud Service</strong></p>
+    <p><strong>AEM as a Cloud Service</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/nl-NL/experience-manager-cloud-service/landing/home.html"> AEM als gebruikershandleidingen voor Cloud Servicen</a></li>
     </ul>
@@ -194,7 +194,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-htl/using/overview.html"> AEM HTML</a></li></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-dispatcher/using/dispatcher.html"> AEM Dispatcher</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html"> AEM Cloud Manager</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html"> AEM Core-componenten</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/experience-manager-core-components/using/introduction.html"> AEM Core-componenten</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html"> AEM-bureaubladtoepassing</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/home.html"> AEM Brand Portal</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html"> AEM Forms Automated Conversion Service</a></li>
@@ -236,9 +236,9 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/nl-NL/id-service/using/home.html"> Experience Cloud ID Service Guide</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html"> Handleiding voor mobiele services</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html#section_3A500233347C4305AB545E298A827CEA"> v4 SDK's voor mobiele services</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Apparaatcoopgids</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/device-co-op/using/home.html"> Apparaatcoopgids</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> Dynamische tagbeheerhandleiding</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/dtm/using/dtm-home.html"> Dynamische tagbeheerhandleiding</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Plaatsingsservice (voorheen Locatieservice)</a></li>
     </ul>
   </td>
@@ -274,6 +274,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> Foutopsporing</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/debugger/using-v2/experience-cloud-debugger.html"> Foutopsporing v2 (bèta)</a></li>
     </ul>
     <p><strong>Application Services met Experience Platform</strong></p>
     <ul>
@@ -426,7 +427,7 @@ Help voor de Advertising Cloud is beschikbaar in het product door op het Help-pi
 
 >[!MORELIKETHIS]
 >
->* [Experience Cloud - Meer informatie en ondersteuning](https://helpx.adobe.com/support/experience-cloud.html)
+>* [Experience Cloud - Meer informatie en ondersteuning](https://helpx.adobe.com/nl/support/experience-cloud.html)
 >* [Experience League](https://experienceleague.adobe.com/)
 >* [Communityforums](https://forums.adobe.com/community/experience-cloud/)
 >* [Adobe Training en Tutorials](https://helpx.adobe.com/nl/learning.html?promoid=KAUDK)
