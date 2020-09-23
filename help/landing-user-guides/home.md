@@ -1,20 +1,20 @@
 ---
-title: Documentatie voor Adobe Experience Cloud
-description: Deze pagina bevat een uitgebreide lijst met alle Adobe Experience Cloud-documentatie en handleidingen en zelfstudies voor gebruikers van Adobe Experience Cloud.
+title: Adobe Experience Cloud-documentatie
+description: Deze pagina bevat een uitgebreide lijst met alle Adobe Experience Cloud-documentatie en handleidingen en zelfstudies voor het inschakelen van gebruikers.
 translation-type: tm+mt
-source-git-commit: 1acfc2c352199022f1bd6c9d043ccc6714c6148b
+source-git-commit: 8a8c58787439effac3ee69dbe2f49853550bdb10
 workflow-type: tm+mt
-source-wordcount: '1291'
-ht-degree: 28%
+source-wordcount: '1295'
+ht-degree: 34%
 
 ---
 
 
-# Documentatie voor Adobe Experience Cloud
+# Adobe Experience Cloud-documentatie
 
 ![Banner](/help/assets/experience-cloud-banner-4.png)
 
-Deze pagina bevat een uitgebreide lijst met gebruikershandleidingen en zelfstudies voor Adobe Experience Cloud.
+Deze pagina bevat een uitgebreide lijst met Adobe Experience Cloud-gebruikershandleidingen en -zelfstudies.
 
 >[!NOTE]
 >
@@ -52,14 +52,14 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <thead>
   <tr>
     <th>Gebruikershandleidingen</th>
-    <th>Zelfstudies en bronnen</th>
+    <th>Tutorials en bronnen</th>
   </tr>
 </thead>
 <tbody>
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/nl-NL/analytics/landing/home.html">Hoofdgids voor Analytics</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/analytics/landing/home.html">Belangrijkste handleiding voor analyse</a></li>
       <li><a href="https://docs.adobe.com/content/help/nl-NL/analytics/analyze/home.html"> Handleiding Analytics-tools</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/admin/home.html"> Beheerdershandleiding</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/components/home.html"> Components-handleiding</a></li>
@@ -67,15 +67,15 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/en/analytics/implementation/home.html"> Implementatiehandleiding</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/import/home.html"> Hulplijn importeren</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/integration/home.html"> Integratiehandleiding</a></li>
-      <li><a href="https://docs.adobe.com/content/help/nl-NL/media-analytics/using/media-overview.html"> Analytics-handleiding voor media</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/media-analytics/using/media-overview.html"> Handleiding voor media-analyse</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/data-workbench/using/home.html"> Handleiding Data Workbench</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
     </ul>
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html"> Analytics-zelfstudies</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/technotes/home.html"> Analytics Tech Notes</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html"> Analytische Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/technotes/home.html"> Technische notities voor Analytics</a></li>
       <li><a href="https://www.adobe.io/apis/experiencecloud/analytics/docs.html"> API's voor Analytics</a></li>
     </ul>
   </td>
@@ -89,24 +89,24 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <thead>
   <tr>
     <th>Gebruikershandleidingen</th>
-    <th>Zelfstudies en ontwikkeling</th>
+    <th>Tutorials en ontwikkeling</th>
   </tr>
 </thead>
 <tbody>
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/target/using/target-home.html"> Target Guide</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/target/using/target-home.html"> Doelgids</a></li>
     </ul>
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html"> Target-zelfstudies</a></li>
-      <li><a href="https://developers.adobetarget.com/api/delivery-api/"> Target Server-Side API's</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html"> Doel Tutorials</a></li>
+      <li><a href="https://developers.adobetarget.com/api/delivery-api/"> Doelserver-kant API's</a></li>
       <li><a href="https://github.com/adobe/target-nodejs-sdk"> Target NodeJS SDK</a></li>
-      <li><a href="https://github.com/adobe/target-java-sdk"> Target Java SDK</a></li>
-      <li><a href="https://developers.adobetarget.com/api/recommendations/"> Target Recommendations API</a></li>
-      <li><a href="http://developers.adobetarget.com/api/#introduction"> Target Adobe.IO-documentatie</a></li>
+      <li><a href="https://github.com/adobe/target-java-sdk"> Doel Java SDK</a></li>
+      <li><a href="https://developers.adobetarget.com/api/recommendations/"> Doel Recommendations API</a></li>
+      <li><a href="http://developers.adobetarget.com/api/#introduction"> Doel: Adobe.IO-documentatie</a></li>
     </ul>
   </td>
 </tr>
@@ -119,7 +119,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <thead>
   <tr>
     <th>Gebruikershandleidingen</th>
-    <th>Zelfstudies</th>
+    <th>Tutorials</th>
   </tr>
 </thead>
 <tbody>
@@ -132,8 +132,8 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Campaign Classic-zelfstudies</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> Campaign Standard-zelfstudies</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/tutorials/overview.html"> Campaign Classic Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/overview.html"> Campaign Standard Tutorials</a></li>
     </ul>
   </td>
 </tr>
@@ -146,7 +146,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <thead>
   <tr>
     <th>Gebruikershandleidingen</th>
-    <th>Zelfstudies</th>
+    <th>Tutorials</th>
   </tr>
 </thead>
 <tbody>
@@ -171,7 +171,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <thead>
   <tr>
     <th>Gebruikershandleidingen</th>
-    <th>Zelfstudies</th>
+    <th>Tutorials</th>
   </tr>
 </thead>
 <tbody>
@@ -181,37 +181,37 @@ To see a preview of our documentation staged on Experience League, see [About Mo
     <ul>
       <li><a href="https://docs.adobe.com/content/help/nl-NL/experience-manager-cloud-service/landing/home.html"> AEM als gebruikershandleidingen voor Cloud Servicen</a></li>
     </ul>
-    <p><strong>AEM-versies</strong></p>
+    <p><strong>AEM</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/user-guide/home.html"> Handboek voor AEM 6.5</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-64/user-guide/home.html"> Handboek voor AEM 6.4</a></li>
-      <li><a href="https://helpx.adobe.com/nl/support/experience-manager/6-3.html"> Gebruikersgidsen voor vorige AEM-versies</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/user-guide/home.html"> AEM 6.5 Gebruikershandleidingen</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-64/user-guide/home.html"> AEM 6.4 Gebruikershandleidingen</a></li>
+      <li><a href="https://helpx.adobe.com/nl/support/experience-manager/6-3.html"> Gebruikershandleidingen voor vorige AEM versies</a></li>
     </ul>
-    <p><strong>Aanvullende AEM-hulplijnen</strong></p>
+    <p><strong>Aanvullende AEM</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/aem-screens-introduction.html"> Gebruikershandleiding voor AEM Screens</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/aem-screens-introduction.html"> AEM Screens-gebruikershandleiding</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-screens/using/about-guide.html"> Best Practices Guide voor AEM Screens</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-htl/using/overview.html"> AEM HTML</a></li></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-htl/using/overview.html"> AEM HTL</a></li></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-dispatcher/using/dispatcher.html"> AEM Dispatcher</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html"> AEM Cloud Manager</a></li>
-      <li><a href="https://docs.adobe.com/content/help/nl-NL/experience-manager-core-components/using/introduction.html"> AEM Core-componenten</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html"> AEM-bureaubladtoepassing</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/experience-manager-core-components/using/introduction.html"> AEM kerncomponenten</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html"> Bureaubladapp AEM</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/home.html"> AEM Brand Portal</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html"> AEM Forms Automated Conversion Service</a></li>
       <li><a href="https://docs.adobe.com/content/help/nl-NL/dynamic-media-classic/using/home.html"> Dynamic Media Classic</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html"> Dynamic Media Developer Guide</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html"> Handleiding voor dynamische media-ontwikkelaars</a></li>
     </ul>
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html"> AEM als zelfstudies voor Cloud Servicen</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> Zelfstudies voor AEM Assets</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/forms/overview.html"> Zelfstudies voor AEM Forms</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/sites/overview.html"> Zelfstudies voor AEM Sites</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html"> WKND-zelfstudie AEM Sites</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> Zelfstudies voor AEM Foundation</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/dispatcher-tutorial/overview.html"> Zelfstudie AEM Dispatcher-cache</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-with-aem-headless/overview.html"> Zelfstudie voor AEM-headless</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html"> AEM als Cloud Service Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> AEM Assets Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/forms/overview.html"> AEM Forms Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/sites/overview.html"> AEM Sites Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html"> Zelfstudie over AEM Sites WKND</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> Tutorials AEM stichting</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/dispatcher-tutorial/overview.html"> Zelfstudie AEM Dispatcher Cache</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-with-aem-headless/overview.html"> Zelfstudie voor AEM zonder koptekst</a></li>
     </ul>
   </td>
 </tr>
@@ -224,31 +224,31 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <thead>
   <tr>
     <th>Gebruikershandleidingen</th>
-    <th>Zelfstudies</th>
+    <th>Tutorials</th>
   </tr>
 </thead>
 <tbody>
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html"> Experience Cloud Interface</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/core-services/interface/experience-cloud.html"> Experience Cloud Interface</a></li>
       <li><a href="https://helpx.adobe.com/nl/enterprise/using/admin-console.html"> Admin Console</a></li>
-      <li><a href="https://docs.adobe.com/content/help/nl-NL/id-service/using/home.html"> Experience Cloud ID Service Guide</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/id-service/using/home.html"> Handleiding voor Experience Cloud ID-service</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html"> Handleiding voor mobiele services</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html#section_3A500233347C4305AB545E298A827CEA"> v4 SDK's voor mobiele services</a></li>
       <li><a href="https://docs.adobe.com/content/help/nl-NL/device-co-op/using/home.html"> Apparaatcoopgids</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/nl-NL/dtm/using/dtm-home.html"> Dynamische tagbeheerhandleiding</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Plaatsingsservice (voorheen Locatieservice)</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/places/using/home.html"> Plaatsingsservice (voorheen Locatieservice)</a></li>
     </ul>
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html"> Zelfstudies voor kernservices</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html"> Core Services Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Implementatiehandleiding starten</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html"> Experience Cloud implementeren in Mobile iOS Swift-toepassingen</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html"> Experience Cloud implementeren in Mobile iOS doelstelling-C-toepassingen</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html"> Experience Cloud implementeren in mobiele Android-apps</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html"> De Experience Cloud implementeren in Mobile iOS Swift-toepassingen</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html"> De Experience Cloud implementeren in Mobile iOS-toepassingen voor doelstelling-C</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html"> De Experience Cloud in mobiele Android-apps implementeren</a></li>
     </ul>
   </td>
 </tr>
@@ -261,7 +261,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <thead>
   <tr>
     <th>Gebruikershandleidingen</th>
-    <th>Zelfstudies en ontwikkeling</th>
+    <th>Tutorials en ontwikkeling</th>
   </tr>
 </thead>
 <tbody>
@@ -280,18 +280,18 @@ To see a preview of our documentation staged on Experience League, see [About Mo
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> Handleiding Platform voor realtime klantgegevens</a></li>
-      <li><a href="https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html"> Journey Orchestration-gebruikershandleiding</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Places Service</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html"> Handboek Journey Orchestration</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/places/using/home.html"> Places Service</a></li>
     </ul>
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Videozelfstudies voor Experience Platforms</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/tutorials/home.html"> Zelfstudies voor Experience Platforms</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Experience Platform Video Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/tutorials/home.html"> Experience Platform Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Implementatiehandleiding starten</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> API's voor ontwikkelaars van Experience Platforms</a></li>
       <li><a href="https://docs.adobe.com/content/help/nl-NL/experience-platform/edge/home.html"> Experience Platform Web SDK</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Journey Orchestration-zelfstudies</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html"> Journey Orchestration-tutorials</a></li>
     </ul>
   </td>
 </tr>
@@ -311,12 +311,12 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/release-notes/home.html"> Opmerkingen bij de release Primetime</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/primetime/release-notes/home.html"> Opmerkingen bij de release Primetime</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/primetime/programming/home.html"> Primetime-programmeergids</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/primetime/migration/home.html"> Primetime-migratie- en conversiegids</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/primetime/reference-implementation/home.html"> Implementatie van tijdreferentie</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/ad-insertion/home.html"> Dynamische invoeging van primetime-advertentie</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/drm/home.html"> Primetime Digital Rights Management</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/ad-insertion/home.html"> Primetime Dynamic Ad Insertion</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/drm/home.html"> Primetime-Digital Rights Management</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/primetime/reference/api-references.html"> Primetime API-verwijzingen</a></li>
       <li><a href="https://helpx.adobe.com/primetime/archives.html"> Gearchiveerde primaire documentatie</a></li>
     </ul>
@@ -366,7 +366,7 @@ Help voor de Advertising Cloud is beschikbaar in het product door op het Help-pi
   <td>
     <ul>
       <li><a href="https://docs.marketo.com/"> Marketo-product (klassiek)</a></li>
-      <li><a href="https://help.marketo.com/hc/en-us"> Marketo Sky</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/marketo/sky/home.html"> Marketo Sky</a></li>
       <li><a href="https://docs.marketo.com/display/BIZ/Bizible"> Bizible Docs</a></li>
     </ul>
   </td>
@@ -389,8 +389,8 @@ Help voor de Advertising Cloud is beschikbaar in het product door op het Help-pi
 <tr>
   <td>
     <ul>
-      <li><a href="https://magento.com/technical-resources"> Magento-documentatie</a></li>
-      <li><a href="https://docs.magento.com/mbi/"> Handboek Magento Business Intelligence (MBI)</a></li>
+      <li><a href="https://magento.com/technical-resources"> Magento Documentatie</a></li>
+      <li><a href="https://docs.magento.com/mbi/"> Gebruikershandleiding voor Magento Business Intelligence (MBI)</a></li>
     </ul>
   </td>
   <td>
@@ -412,7 +412,7 @@ Help voor de Advertising Cloud is beschikbaar in het product door op het Help-pi
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html"> Softwaredistributie</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/experience-cloud/software-distribution/home.html"> Softwaredistributie</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/search-promote/using/sp-home.html"> Search&amp;Promote</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/livefyre/using/home.html"> Gebruikershandleiding voor Livefyre</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/livefyre/implementation/home.html"> Implementatiehandleiding voor Livefyre</a></li>
@@ -427,7 +427,7 @@ Help voor de Advertising Cloud is beschikbaar in het product door op het Help-pi
 
 >[!MORELIKETHIS]
 >
->* [Experience Cloud - Meer informatie en ondersteuning](https://helpx.adobe.com/nl/support/experience-cloud.html)
+>* [Experience Cloud Meer informatie en ondersteuning](https://helpx.adobe.com/nl/support/experience-cloud.html)
 >* [Experience League](https://experienceleague.adobe.com/)
 >* [Communityforums](https://forums.adobe.com/community/experience-cloud/)
 >* [Adobe Training en Tutorials](https://helpx.adobe.com/nl/learning.html?promoid=KAUDK)
