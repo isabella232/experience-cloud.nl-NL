@@ -1,15 +1,15 @@
 ---
-user-guide-title: Ervaar de distributie van software in de cloud
+user-guide-title: Experience Cloud-softwaredistributie
 index: y
 translation-type: tm+mt
 source-git-commit: e7f6af8b2c52fe1154900c58a9b13d972d087e89
 workflow-type: tm+mt
-source-wordcount: '12'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
-# Ervaar de distributie van software in de cloud {#software-distribution}
+# Experience Cloud-softwaredistributie {#software-distribution}
 
-+ [Ervaar de distributie van software in de cloud](home.md)
++ [Experience Cloud-softwaredistributie](home.md)
