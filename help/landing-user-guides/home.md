@@ -5,7 +5,7 @@ translation-type: tm+mt
 source-git-commit: 8a8c58787439effac3ee69dbe2f49853550bdb10
 workflow-type: tm+mt
 source-wordcount: '1295'
-ht-degree: 34%
+ht-degree: 35%
 
 ---
 
@@ -132,8 +132,8 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/tutorials/overview.html"> Campaign Classic Tutorials</a></li>
-      <li><a href="https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/overview.html"> Campaign Standard Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/tutorials/overview.html"> Campaign Classic-tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/overview.html"> Campaign Standard-tutorials</a></li>
     </ul>
   </td>
 </tr>
@@ -286,7 +286,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Experience Platform Video Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/nl-NL/platform-learn/tutorials/overview.html"> Experience Platform Video Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/tutorials/home.html"> Experience Platform Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Implementatiehandleiding starten</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> API's voor ontwikkelaars van Experience Platforms</a></li>
