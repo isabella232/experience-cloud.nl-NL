@@ -9,6 +9,6 @@ ht-degree: 0%
 ---
 
 
-# Zelfstudies voor de cloud {#tutorials}
+# Experience Cloud Tutorials {#tutorials}
 
-+ [Zelfstudies voor de cloud](home.md)
++ [Experience Cloud Tutorials](home.md)
