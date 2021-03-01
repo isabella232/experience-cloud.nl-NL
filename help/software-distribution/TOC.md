@@ -10,6 +10,6 @@ ht-degree: 0%
 ---
 
 
-# Experience Cloud-softwaredistributie {#software-distribution}
+# Experience Cloud Softwaredistributie {#software-distribution}
 
 + [Experience Cloud-softwaredistributie](home.md)
