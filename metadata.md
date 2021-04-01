@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 solution-title: Experience Cloud
 solution-hub-url: https://helpx.adobe.com/nl/support/experience-cloud.html
 solution-icon: assets/experience-cloud.png
@@ -10,7 +10,7 @@ index: true
 mini-toc-levels: 2
 product: experience cloud
 translation-type: tm+mt
-source-git-commit: 8a8c58787439effac3ee69dbe2f49853550bdb10
+source-git-commit: d95bfc5f8ce27cdd314810ec00c21dcf5cf9cb28
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 95%
@@ -20,7 +20,7 @@ ht-degree: 95%
 
 # Metagegevens voor intern gebruik
 
-Het bestand metadata.md bevat metagegevens op niveau van de opslagplaats die worden doorgegeven aan TOC.md-bestanden van de gebruikershandleiding in de opslagplaats. Als u de content van metadata.md voor om het even welke gebruikershandleiding wilt veranderen, doet u dit in om het even welk TOC.md-bestand.
+Het bestand metadata.md bevat metagegevens op niveau van de repository die worden doorgegeven aan TOC.md-bestanden van de gebruikershandleiding in de repository. Als u de content van metadata.md voor om het even welke gebruikershandleiding wilt veranderen, doet u dit in om het even welk TOC.md-bestand.
 
 | metadata | wat het doet |
 |--- |--- |
@@ -30,4 +30,4 @@ Het bestand metadata.md bevat metagegevens op niveau van de opslagplaats die wor
 | getting-started-url | Koppeling naar pagina om aan de slag te gaan met helpx |
 | tutorials-url | Koppeling naar videotutorials: helpx-tutorials of KT-tutorials |
 | mini-toc-levels | Hiermee bepaalt u het aantal kopniveaus dat wordt weergegeven in de rechterrail. standaard is dit 2 |
-| git-repo | Hiermee wordt de locatie van de primaire opslagplaats voor intern gebruik opgegeven |
+| git-repo | Hiermee wordt de locatie van de primaire repository voor intern gebruik opgegeven |
