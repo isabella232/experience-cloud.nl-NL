@@ -1,14 +1,13 @@
 ---
 title: Adobe Experience Cloud-documentatie
 description: Deze pagina bevat een uitgebreide lijst met alle Adobe Experience Cloud-documentatie en handleidingen en zelfstudies voor het inschakelen van gebruikers.
-translation-type: tm+mt
-source-git-commit: 8a8c58787439effac3ee69dbe2f49853550bdb10
+exl-id: fef60cd5-62e1-48cb-9779-af3944951c62
+source-git-commit: fd3086f279572ccc2b61db1c6902ef7f7ab9591f
 workflow-type: tm+mt
 source-wordcount: '1295'
-ht-degree: 35%
+ht-degree: 34%
 
 ---
-
 
 # Adobe Experience Cloud-documentatie
 
@@ -132,7 +131,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/tutorials/overview.html"> Campaign Classic-tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Campaign Classic-tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/nl-NL/campaign-standard-learn/tutorials/overview.html"> Campaign Standard-tutorials</a></li>
     </ul>
   </td>
@@ -199,7 +198,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/home.html"> AEM Brand Portal</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html"> AEM Forms Automated Conversion Service</a></li>
       <li><a href="https://docs.adobe.com/content/help/nl-NL/dynamic-media-classic/using/home.html"> Dynamic Media Classic</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html"> Handleiding voor dynamische media-ontwikkelaars</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html"> Dynamic Media Developer Guide</a></li>
     </ul>
   </td>
   <td>
@@ -233,13 +232,13 @@ To see a preview of our documentation staged on Experience League, see [About Mo
     <ul>
       <li><a href="https://docs.adobe.com/content/help/nl-NL/core-services/interface/experience-cloud.html"> Experience Cloud Interface</a></li>
       <li><a href="https://helpx.adobe.com/nl/enterprise/using/admin-console.html"> Admin Console</a></li>
-      <li><a href="https://docs.adobe.com/content/help/nl-NL/id-service/using/home.html"> Handleiding voor Experience Cloud ID-service</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/id-service/using/home.html"> Handleiding voor Experience Cloud ID-service</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html"> Handleiding voor mobiele services</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html#section_3A500233347C4305AB545E298A827CEA"> v4 SDK's voor mobiele services</a></li>
-      <li><a href="https://docs.adobe.com/content/help/nl-NL/device-co-op/using/home.html"> Apparaatcoopgids</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/nl-NL/dtm/using/dtm-home.html"> Dynamische tagbeheerhandleiding</a></li>
-      <li><a href="https://docs.adobe.com/content/help/nl-NL/places/using/home.html"> Plaatsingsservice (voorheen Locatieservice)</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Apparaatcoopgids</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/launch/using/home.html"> Experience Platform Launch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> Dynamische tagbeheerhandleiding</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Plaatsingsservice (voorheen Locatieservice)</a></li>
     </ul>
   </td>
   <td>
@@ -271,7 +270,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/landing/home.html"> Documentatie Experience Platform</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/release-notes/latest.html"> Opmerkingen bij de release Platform</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/launch/using/home.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> Foutopsporing</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/debugger/using-v2/experience-cloud-debugger.html"> Foutopsporing v2 (bèta)</a></li>
@@ -281,16 +280,16 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> Handleiding Platform voor realtime klantgegevens</a></li>
       <li><a href="https://docs.adobe.com/content/help/nl-NL/journeys/using/journey-orchestration-home.html"> Handboek Journey Orchestration</a></li>
-      <li><a href="https://docs.adobe.com/content/help/nl-NL/places/using/home.html"> Places Service</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Places Service</a></li>
     </ul>
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/nl-NL/platform-learn/tutorials/overview.html"> Experience Platform Video Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Experience Platform Video Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/tutorials/home.html"> Experience Platform Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Implementatiehandleiding starten</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> API's voor ontwikkelaars van Experience Platforms</a></li>
-      <li><a href="https://docs.adobe.com/content/help/nl-NL/experience-platform/edge/home.html"> Experience Platform Web SDK</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/edge/home.html"> Experience Platform Web SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/nl-NL/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html"> Journey Orchestration-tutorials</a></li>
     </ul>
   </td>
@@ -365,7 +364,7 @@ Help voor de Advertising Cloud is beschikbaar in het product door op het Help-pi
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.marketo.com/"> Marketo-product (klassiek)</a></li>
+      <li><a href="https://docs.marketo.com/"> Marketo-product (Classic)</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/marketo/sky/home.html"> Marketo Sky</a></li>
       <li><a href="https://docs.marketo.com/display/BIZ/Bizible"> Bizible Docs</a></li>
     </ul>
