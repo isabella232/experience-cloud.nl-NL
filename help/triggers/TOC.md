@@ -1,15 +1,15 @@
 ---
-user-guide-title: Onbekend
-user-guide-description: Onbekend
-breadcrumb-title: Onbekend
+user-guide-title: Adobe Experience Cloud-triggers
+user-guide-description: Adobe Experience Cloud-triggers
+breadcrumb-title: Adobe Experience Cloud-triggers
 solution: Experience Cloud
-source-git-commit: 9a903c2c485bbe3c16d07c8495674856e8f26972
+source-git-commit: fb41c2e26a4945a9d9f24fec7f4c68a35af2c428
 workflow-type: tm+mt
-source-wordcount: '5'
-ht-degree: 20%
+source-wordcount: '14'
+ht-degree: 100%
 
 ---
 
-# Onbekend {#unknown}
+# Triggers {#triggers}
 
 * [Home](home.md)
