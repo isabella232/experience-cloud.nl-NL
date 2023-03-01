@@ -2,7 +2,8 @@
 title: Algemene suppressielijst
 description: De algemene suppressielijst detecteren
 hide: true
-source-git-commit: a946cfb1027896f6e45aaf88d25ad7114d6b5ac6
+exl-id: 40aef987-52a3-470b-88ca-c716a116bdfc
+source-git-commit: b66e2525694c771ebb7ac5190b7259ef5658d81a
 workflow-type: tm+mt
 source-wordcount: '602'
 ht-degree: 0%
@@ -69,6 +70,7 @@ Selecteer hiervoor de optie **[!UICONTROL Add email or domain]** en voert u een 
    EMAIL,abc@somedomain.com,Comment
    DOMAIN,somedomain.com,Comment
    ```
+
    >[!CAUTION]
    >
    >Wijzig de namen van de kolommen in de CSV-sjabloon niet.
@@ -108,4 +110,3 @@ Als u een adres uit de lijst met wereldwijde onderdrukking wilt verwijderen, geb
 >[!CAUTION]
 >
 >Adressen of domeinen die automatisch door de derde dienstverlener Blackbox worden toegevoegd kunnen niet door consultants door de interface worden verwijderd. Dit kan alleen via een backend-ticket worden gedaan.
-
