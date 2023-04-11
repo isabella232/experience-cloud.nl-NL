@@ -2,17 +2,17 @@
 title: Experience Cloud-triggers maken en beheren
 description: Gebruikersinterface van Adobe Experience Cloud Triggers detecteren
 hide: true
-source-git-commit: 5243940cc97621257e6ce4f41bfe837d1bc5530c
+exl-id: aad9c013-6671-4e3b-adfc-fab79f2a3ef7
+source-git-commit: ce0faf9fab45c931feb666ac0c77f5ab5c231746
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '132'
 ht-degree: 3%
 
 ---
 
-
 # Adobe Experience Cloud-triggers{#triggers-home}
 
-Ontdek nieuwe trekkers UI en leer hoe te om het te gebruiken.
+De nieuwe gebruikersinterface voor Experience Cloud Triggers biedt een intuïtieve ervaring om consumentengedrag te beheren en de gebruikerservaring aan te passen.
 
 U kunt Experience Cloud Triggers gebruiken om gegevens tussen Adobe Campaign en Adobe Analytics te verbinden gebruikend de pijpleiding. De pijplijn haalt de acties van de gebruiker of trekkers van uw website terug. Een achterlating van een winkelwagen is een voorbeeld van een trigger. Triggers worden in Adobe Campaign verwerkt om e-mails in bijna real-time te verzenden.
 
