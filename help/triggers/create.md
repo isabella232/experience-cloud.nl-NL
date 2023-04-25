@@ -3,7 +3,8 @@ title: Experience Cloud-triggers maken en beheren
 description: Gebruikersinterface van Adobe Experience Cloud Triggers detecteren
 hide: true
 hidefromtoc: true
-source-git-commit: ce0faf9fab45c931feb666ac0c77f5ab5c231746
+exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
+source-git-commit: 743244e72cfe2dfb44a6c9adba699f90db1fe04d
 workflow-type: tm+mt
 source-wordcount: '441'
 ht-degree: 0%
@@ -18,7 +19,7 @@ ht-degree: 0%
 
 Maak een trigger en configureer de voorwaarden voor de trigger. U kunt bijvoorbeeld de criteria voor de regels van een trigger tijdens een bezoek opgeven, zoals maateenheden zoals Kart Abandon of afmetingen zoals de productnaam. Wanneer aan de regels wordt voldaan, loopt de trekker.
 
-1. Selecteer in de Experience Cloud het geavanceerde menu en vervolgens Triggers.
+1. In de Experience Cloud, selecteer het menu van de oplossingsschakelaar, dan **[!UICONTROL Triggers]**.
 
    ![](assets/triggers_7.png)
 
@@ -38,7 +39,7 @@ Maak een trigger en configureer de voorwaarden voor de trigger. U kunt bijvoorbe
 
 1. Analyses selecteren **[!UICONTROL Report Suite]** wordt gebruikt voor deze trigger. Deze instelling identificeert de te gebruiken rapportgegevens.
 
-   [Meer informatie over de rapportsuite](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html).
+   [Meer informatie over de rapportsuite](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html){target="_blank"}.
 
 1. Kies de optie **[!UICONTROL Trigger after no action for]** geldigheidsperiode.
 
