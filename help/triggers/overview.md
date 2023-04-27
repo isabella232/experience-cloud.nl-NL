@@ -1,7 +1,10 @@
 ---
 title: Experience Cloud-triggers maken en beheren
 description: Gebruikersinterface van Adobe Experience Cloud Triggers detecteren
-source-git-commit: 743244e72cfe2dfb44a6c9adba699f90db1fe04d
+hide: true
+hidefromtoc: true
+exl-id: 2c8f58aa-cade-46c1-beaa-cfe7720e4e90
+source-git-commit: 7304dc2d08f78bd287fc0cae6e11021aa6ed1149
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 1%
@@ -25,4 +28,3 @@ Over het algemeen kan het 15 tot 90 minuten duren voordat een marketingcampagne 
 * **Afschaffing:** U kunt een trigger maken die moet worden geactiveerd wanneer een bezoeker een product weergeeft, maar er niets aan toevoegt.
 * **Handeling:** U kunt bijvoorbeeld triggers maken om na aanmelding voor nieuwsbrieven, e-mailabonnementen of aanvragen voor creditcards (bevestigingen) te activeren. Als u een detailhandelaar bent, kunt u een trekker voor een bezoeker tot stand brengen die zich voor een loyaliteitsprogramma ondertekent. In media en vermaak, creeer trekkers voor bezoekers die op een bepaalde show letten, en misschien wilt u met een onderzoek antwoorden.
 * **Begin en einde sessie:** Maak een trigger voor het starten en beëindigen van de sessie.
-
