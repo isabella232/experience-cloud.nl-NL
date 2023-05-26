@@ -17,9 +17,9 @@ ht-degree: 96%
 ---
 
 
-# Metagegevens voor intern gebruik
+# Metadata voor intern gebruik
 
-Het bestand metadata.md bevat metagegevens op niveau van de repository die worden doorgegeven aan TOC.md-bestanden van de gebruikershandleiding in de repository. Als u de content van metadata.md voor om het even welke gebruikershandleiding wilt veranderen, doet u dit in om het even welk TOC.md-bestand.
+Het bestand metadata.md bevat metadata op repo-niveau die worden doorgegeven aan de handleiding voor TOC.md-bestanden in de repo. Als u de inhoud van metadata.md voor een handleiding wilt wijzigen, doe dit dan in een TOC.md-bestand.
 
 | metadata | wat het doet |
 |--- |--- |
