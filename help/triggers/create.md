@@ -2,20 +2,24 @@
 title: Experience Cloud-triggers maken en beheren
 description: Gebruikersinterface van Adobe Experience Cloud Triggers detecteren
 exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
-source-git-commit: 3edbf7991e19d524ce5284a0cdd46676b9640062
+source-git-commit: 9cdff509e07f1e01b6c6a403288093998e5db152
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
 
 # Een Experience Cloud-trigger maken {#create-triggers}
 
+>[!AVAILABILITY]
+>
+>De nieuwe gebruikersinterface van Adobe Experience Cloud Triggers wordt progressief ingevoerd aan alle klanten. Neem voor meer informatie contact op met uw Adobe-vertegenwoordiger.
+
+Maak een trigger en configureer de voorwaarden voor de trigger. U kunt bijvoorbeeld de criteria voor de regels van een trigger tijdens een bezoek opgeven, zoals maateenheden zoals Kart Abandon of afmetingen zoals de productnaam. Wanneer aan de regels wordt voldaan, loopt de trekker.
+
 >[!NOTE]
 >
 > De nieuwe gebruikersinterface voor Experience Cloud Triggers biedt een intuïtieve ervaring om consumentengedrag te beheren en de gebruikerservaring aan te passen. Als u wilt terugschakelen naar de vorige interface, klikt u op de knop **[!UICONTROL Go to classic mode]** knop.
-
-Maak een trigger en configureer de voorwaarden voor de trigger. U kunt bijvoorbeeld de criteria voor de regels van een trigger tijdens een bezoek opgeven, zoals maateenheden zoals Kart Abandon of afmetingen zoals de productnaam. Wanneer aan de regels wordt voldaan, loopt de trekker.
 
 1. In de Experience Cloud, selecteer het menu van de oplossingsschakelaar, dan **[!UICONTROL Triggers]**.
 

@@ -2,14 +2,18 @@
 title: Experience Cloud-triggers maken en beheren
 description: Gebruikersinterface van Adobe Experience Cloud Triggers detecteren
 exl-id: aad9c013-6671-4e3b-adfc-fab79f2a3ef7
-source-git-commit: 3edbf7991e19d524ce5284a0cdd46676b9640062
+source-git-commit: 9cdff509e07f1e01b6c6a403288093998e5db152
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 3%
+source-wordcount: '152'
+ht-degree: 2%
 
 ---
 
 # Adobe Experience Cloud-triggers{#triggers-home}
+
+>[!AVAILABILITY]
+>
+>De nieuwe gebruikersinterface van Adobe Experience Cloud Triggers wordt progressief ingevoerd aan alle klanten. Neem voor meer informatie contact op met uw Adobe-vertegenwoordiger.
 
 De nieuwe gebruikersinterface voor Experience Cloud Triggers biedt een intuïtieve ervaring om consumentengedrag te beheren en de gebruikerservaring aan te passen.
 
