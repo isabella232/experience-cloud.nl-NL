@@ -2,9 +2,8 @@
 user-guide-title: Service-beheer voor Adobe-levering
 user-guide-description: Adobe-leveringsservice
 breadcrumb-title: Adobe-leveringsservice
-solution: Experience Cloud
 hide: true
-source-git-commit: 3eb95ed738d053cc1250e66a28a00f26506f530d
+source-git-commit: e52b82bd3f81fb68831ccbd1038e0187d1672595
 workflow-type: tm+mt
 source-wordcount: '17'
 ht-degree: 5%
